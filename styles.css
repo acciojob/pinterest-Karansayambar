@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
 .hero{
+	width:100%;
 	display:flex;
 	justify-content:center;
 	align-items:center;
@@ -13,9 +14,9 @@ img{
 	font-size:10px
 }
 .hero1{
+	width:30%
 	text-align:center;
 	padding:40px;
-	width:120px
 }
 button{
 	background-color:red;
